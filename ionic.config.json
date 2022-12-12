@@ -1,0 +1,8 @@
+{
+  "name": "dse_test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "95e1aff8"
+}
